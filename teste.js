@@ -1,5 +1,8 @@
 function teste() {
 
-    console.log("TESTIING THE CODING!!!")
-    
+    console.log("TESTING THE CODING!!!")
+
 }
+
+teste()
+
